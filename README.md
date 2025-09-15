@@ -78,7 +78,7 @@ deactivate
 
 ## 📚 Endpoints Principais
 
-### Vendas (`localhost:8000`)
+### Veículos (`localhost:8000`)
 - `GET /soat-veiculo/v1/veiculos/health/actuator`
 - `POST /soat-veiculo/v1/veiculos`
 - `GET /soat-veiculo/v1/veiculos/{veiculo_id}`
