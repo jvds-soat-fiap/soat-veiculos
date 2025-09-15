@@ -78,8 +78,8 @@ deactivate
 
 ## 📚 Endpoints Principais
 
-### Pagamentos (`localhost:8000`)
-- `GET /soat-veiculo/v1/pagamentos/health/actuator`
+### Veículos (`localhost:8000`)
+- `GET /soat-veiculo/v1/veiculos/health/actuator`
 - `POST /soat-veiculo/v1/veiculos`
 - `GET /soat-veiculo/v1/veiculos/{veiculo_id}`
 - `PATCH /soat-veiculo/v1/veiculos/{veiculo_id}/reservar`
