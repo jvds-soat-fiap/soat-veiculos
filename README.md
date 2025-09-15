@@ -9,7 +9,7 @@ Este projeto implementa uma **plataforma de revenda de veículos automotores** b
 
 A arquitetura é composta por múltiplos serviços independentes:
 
-- `soat-veiculos`: Simula geração e confirmação de pagamentos.
+- `soat-veiculos`: Faz os cadastros de veículos para venda.
 
 Cada serviço segue o padrão **Hexagonal (Ports & Adapters)** para isolamento de regras de negócio.
 
